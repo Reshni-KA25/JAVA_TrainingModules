@@ -1,0 +1,5 @@
+# Created at 2025-12-10T12:18:32.006
+Boot Manifest-JAR contains absolute paths in classpath 'S:\Kanini\KA-2025 Training\JAVA\Module1\first-maven-project\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
