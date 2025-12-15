@@ -1,0 +1,73 @@
+# =========================
+# Maven
+# =========================
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# =========================
+# Ignore ALL tests
+# =========================
+src/test/
+**/src/test/**
+**/*Test.java
+**/*Tests.java
+
+# =========================
+# Documents
+# =========================
+*.pdf
+
+# =========================
+# Images
+# =========================
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.svg
+*.webp
+*.tiff
+*.ico
+
+# =========================
+# Data files
+# =========================
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.xlsm
+*.ods
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# IDE files
+# =========================
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
